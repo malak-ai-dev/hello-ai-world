@@ -1,1 +1,1 @@
-print('Hello AI World from Malak')
+print("Hello AI World from Malak")
